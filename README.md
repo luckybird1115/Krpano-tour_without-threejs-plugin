@@ -1,0 +1,1 @@
+# Krpano-tour_without-threejs-plugin
